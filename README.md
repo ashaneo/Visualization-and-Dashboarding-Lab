@@ -32,11 +32,3 @@ This project analyzes Kickstarter data to understand the success rates of projec
 ## Results
 
 The analysis reveals insights into Kickstarter project success rates and the popularity of different categories.
-
-## Author
-
-- [Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
